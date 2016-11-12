@@ -1,0 +1,2 @@
+# xgo
+for go project
